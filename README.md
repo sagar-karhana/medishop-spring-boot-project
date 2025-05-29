@@ -1,6 +1,6 @@
 # 🏥 MediShop – Spring Boot Project
 
-Your Trusted Online Medical Store – A **Spring Boot REST API** that allows users to **browse, search, and order medicines online**. The system supports three roles: **Admin, Vendor, and Customer**.
+The objective of “MediShop” is to provide a user-friendly platform for customers to order medicines online,ensuring convenience, accessibility, and timely delivery of essential healthcare products.
 
 ## 🚀 Tech Stack
 
