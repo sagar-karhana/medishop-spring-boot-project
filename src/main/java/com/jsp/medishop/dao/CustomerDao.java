@@ -5,7 +5,7 @@ import java.util.List;
 import com.jsp.medishop.dto.Customer;
 
 /**
- * @author Kamran Irshad
+ * @author Sagar-Karhana
  */
 public interface CustomerDao {
 
