@@ -9,7 +9,7 @@ import com.jsp.medishop.response.ResponseStructure;
 
 
 /**
- * @author Mo Masood Ansari
+ * @author Sagar-Karhana
  *
  */
 public interface VendorService {
