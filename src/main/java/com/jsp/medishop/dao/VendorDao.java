@@ -6,7 +6,7 @@ import com.jsp.medishop.dto.Vendor;
 
 
 /**
- * @author Mo Masood Ansari
+ * @author Sagar-Karhana
  *
  */
 public interface VendorDao {
