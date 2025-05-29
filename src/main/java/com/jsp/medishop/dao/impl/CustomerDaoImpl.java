@@ -10,7 +10,7 @@ import com.jsp.medishop.dto.Customer;
 import com.jsp.medishop.repository.CustomerRepository;
 
 /**
- * @author Kamran
+ * @author Sagar-Karhana
  */
 @Repository
 public class CustomerDaoImpl implements CustomerDao {
