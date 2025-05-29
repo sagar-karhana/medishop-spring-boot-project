@@ -12,7 +12,7 @@ import lombok.Data;
 
 
 /**
- * @author Mo Masood Ansari
+ * @author Sagar-Karhana
  *
  */
 @Entity
